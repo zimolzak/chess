@@ -1,0 +1,64 @@
+d4 d5
+c4 e5
+e4 Nf6
+Be3 dxc4
+Nc3 Nc6
+
+Bxc4
+d5
+    Ne7
+    Ng6
+
+# 2248 remaining
+# then, about 25 moves skipped
+# 2155
+# (Ivanchuk vs Wolff 1993)
+
+32. Kg2 Kh7
+
+# 2129
+
+35. Nf5 Nf6
+36. h3 
+
+# "Adjourn"
+
+36 ... Qg6
+
+# 1336
+# next it diverges from Ivanchuk
+
+37. Ne6 Ra4
+38. b3 Rxe4
+39. Nxd6 Bxe6
+40. dxe6 cxd6
+
+# 1239
+
+41. e7 d5
+
+# is the big board wrong? 3rd rank.
+# yeah clearly W needs dark sq bish
+# drama
+# 1058
+
+42. Bc5 Qe8
+43. Qf3 Qc6
+44. b4 Qe8 # not happy, draw?
+45. Qf5 Kh8
+46. Qxf6 gxf6
+47. Rxf6 Qh5
+48. Rf8+ Kg7
+
+# 852 drama
+
+49. e8=Q  ..
+50. .. Qg2+ # I think
+
+# 828, black R gone, h pawn gone
+
+51. Rf2 Qe4+
+52. Kd2
+
+1-0
+
