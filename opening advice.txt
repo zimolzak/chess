@@ -1,0 +1,15 @@
+as white, play 1.e4 and vs
+
+1...e5 play the Scotch
+
+1...c5 play 2.c3 Alapin
+
+1...c6/1...e6 play 2.d4 d5 3.exd4 ... 4.c4 Panov/Monte Carlo
+
+as black vs
+
+1.e4 e5 Two knights and Open Spanish
+
+1.d4/Nf3/c4/weird stuff play the Tarrasch Defense
+
+1.e4 e5 gambits: any line that gets in d5 ASAP
