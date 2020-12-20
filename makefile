@@ -1,4 +1,4 @@
-files = alex-2020-12-07.pgn alex1211.pgn alex1212.pgn
+files = alex-2020-12-07.pgn alex1211.pgn alex1212.pgn dec19.pgn
 
 .PHONY: all clean
 
